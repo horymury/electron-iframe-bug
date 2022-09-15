@@ -8,4 +8,4 @@ Steps:
 	-	Add multiple iframe using the UI button
 	-	Remove all iframe instances with the UI button
 	-	Notice the iframes not cleaning up under Sources
-	-	In the long run, this creates and OOM exception
+	-	In the long run, this creates an OOM exception
